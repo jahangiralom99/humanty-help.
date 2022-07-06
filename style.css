@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    background-image: url(./image/donation13.jpg);
+    background-repeat: no-repeat;
+   background-size: 100%;
+   
+}
+.donate-link{
+        text-decoration: none;
+        background-image: linear-gradient(orange, tomato);
+            padding: 10px 40px;
+            color: white;
+            font-weight: 700;
+            border-radius: 15px;
+}
+.top-bar{
+    width: 100%;
+    margin-top: 5%;
+    padding: 5%;
+    text-align: center;
+    color: white;
+}
+h1
+{
+
+   font-size: 60px;
+}
